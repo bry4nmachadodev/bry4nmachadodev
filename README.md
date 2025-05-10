@@ -1,15 +1,36 @@
-### Olá! Eu sou o Bryan Machado 👋🏻
+# 👨🏻‍💻 Bryan Machado
+**`Backend Developer`**
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-machado-dev/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bry4nreal_/)
+Enthusiast for innovative technological solutions, passionate about optimizing processes and exploring the frontiers of computing.
 
-![Bryan GitHub stats](https://github-readme-stats.vercel.app/api?username=bry4nmachadodev&show_icons=true&theme=dracula)
+## 🤖 Languages and Technologies
 
-## Tecnologias que uso no meu dia
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50px" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50px" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50px" />
+</p>
 
-<div> 
-    <img align="center" alt="html15" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align="center" alt="html15" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</div> <br/>
+## 📊Statics
 
-Entusiasta por soluções tecnológicas inovadoras, com paixão por otimizar processos e explorar as fronteiras da computação.
+<img
+align="left"
+alt="GitHub Stats"
+height="200"
+style="padding-right: 10px;" src= "https://github-readme-stats.vercel.app/api?username=bry4nmachadodev&
+show_icons=true&theme=tokyonight&include_all_commits=true&locale-pt-br."
+/>
+<img
+align="left"
+alt="GitHub Stats"
+height="200"
+style="padding-right: 10px;"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=bry4nmachadodev&
+theme=tokyonight"
+/>
