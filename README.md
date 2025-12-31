@@ -1,7 +1,7 @@
-# 👨🏻‍💻 Bryan Machado
+# 👨🏻‍💻What's up? I'm Bryan Machado
 **`Backend Developer`**
 
-Enthusiast for innovative technological solutions, passionate about optimizing processes and exploring the frontiers of computing.
+Backend-focused developer with a strong interest in Java and Spring Boot. Passionate about building scalable APIs, writing clean code, and continuously improving software quality.
 
 ## 🤖 Languages and Technologies
 
