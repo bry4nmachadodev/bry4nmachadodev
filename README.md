@@ -36,9 +36,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bryan-machado-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=ffffff" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-%23FF0000?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo" />
   </a>
 </div>
+
 
 
 ###
