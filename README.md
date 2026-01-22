@@ -40,6 +40,10 @@
 
 ###
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bry4nmachadodev&show_icons=true&theme=shadow_red)
+
+###
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&reversal=false&fontSize=70&fontColor=#880808&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
