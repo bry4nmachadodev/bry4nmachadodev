@@ -52,6 +52,15 @@
 
 </div>
 
+<div align="center">
+
+<!-- Activity Graph -->
+<img src="https://activity-graph.herokuapp.com/graph?username=bry4nmachadodev&theme=redical&hide_border=true" />
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bry4nmachadodev&theme=shadow_red&hide_border=true" />
+
+</div>
 
 ###
 
