@@ -42,6 +42,17 @@
 
 ###
 
+<div align="center">
+
+<!-- Total de commits, issues, pull requests -->
+<img src="https://github-readme-stats.vercel.app/api?username=bry4nmachadodev&show_icons=true&theme=shadow_red&count_private=true&hide_title=false&hide_border=true" />
+
+<!-- Linguagens mais usadas -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bry4nmachadodev&layout=compact&theme=shadow_red&hide_border=true" />
+
+</div>
+
+
 ###
 
 <div>
